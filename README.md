@@ -1,0 +1,1 @@
+The purpose of this application is to autonomously play the 2004 classic Insaniquarium Deluxe.
